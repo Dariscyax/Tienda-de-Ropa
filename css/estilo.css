@@ -1,0 +1,279 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container{
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+.card-img-top{
+    align-content: center;
+    height: 140px;
+    width: 20%;
+    margin-left: 40%;
+}
+
+.navbar{
+    width: 130%;
+    padding: 5px ;
+    background-color: #FF2EB8;
+    font-family: 'Ulbuntu', sans-serif;
+    font-size: 59%;
+
+}
+
+.navbar .max-width{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+.header{
+    margin: 20px 0;
+    background: black;
+}
+
+
+.navbar .menu li{
+    display: inline-block;
+    text-decoration: none;
+    
+}
+
+
+.navbar .menu li a {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 3%;
+    margin-left: 650%;
+    transition: color o.3s ease ;
+}
+
+.navbar .menu li a:hover{
+    color: rgba(236, 221, 14, 0.966) ;
+
+}
+
+
+.imagen-about-us{
+    width:100%;
+    height: 600px;
+    justify-self: center;
+    margin-top: 4.4rem;
+}
+
+.oferta{
+    width:100%;
+    height: 130px;
+    justify-self: center;
+    margin-top: 4.5rem;
+    background-size: auto 73.6rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: .6rem solid #fff;
+    border-bottom:.6rem solid #fff;
+
+
+}
+
+.nav{
+    width: 1300%;
+    padding: 10px ;
+    background-color: #0e020a;
+    font-family: 'Ulbuntu', sans-serif;
+    font-size: 59%;
+    margin-right: 100%;
+    margin-top: 4.5rem;
+
+}
+
+.nav .promociones{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav .informacion h2{
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+.nav .informacion h2 {
+    color: rgb(255, 249, 249);
+    font-size: 20px;
+    height: 200%;
+    width: 300%;
+    transition: color o.3s ease ;
+    margin-left: 220%;
+
+}
+
+.zara{
+    height: 80px;
+    width: 10%;
+    margin-left: 16%;
+
+}
+
+
+.prada{
+    height: 80px;
+    width: 10%;
+    margin-left: 24%;
+
+    
+
+}
+
+.chanel{
+    height: 80px;
+    width: 18%;
+    margin-left: 8%;
+    margin-top: 4.5rem;
+
+}
+
+.section{
+    align-content: center;
+    height: auto;
+    
+}
+
+.marcas .conta-iner h3{
+    align-items: center;
+    margin-left: 42.5%;
+    margin-top: 4.5rem;
+    width: 150%;
+    height: 300%;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 0, 0);
+    border: rgb(0, 0, 0);
+    border-radius: 2px;
+
+}
+
+
+.look1{
+    width: 52%;
+    height: 430px;
+    margin-left: 43.5%;
+    margin-top: 4.5rem;
+    border-radius: 10px;
+    
+}
+
+.look2{
+    width: 55%;
+    height: 430px;
+    margin-left: 35%;
+    margin-top: 4.5rem;
+    border-radius: 10px;
+
+}
+
+.look3{
+    width: 89%;
+    height: 430px;
+    margin-left: 71%;
+    margin-top: 4.5rem;
+    border-radius: 10px;
+
+}
+
+.look4{
+    width: 114%;
+    height: 430px;
+    margin-left: 159%;
+    margin-top: 4.5rem;
+    border-radius: 10px;
+
+}
+
+.instagram{
+    width: 2.5%;
+    height: 2%;
+    margin-left: 43%;
+    
+    border-radius: 10px;
+
+}
+
+.facebook{
+    width: 2.5%;
+    height: 2%;
+    margin-left: 5%;
+    margin-top: 4.5rem;
+    border-radius: 10px;
+
+
+}
+
+
+
+.iconos-social a{
+    width: 10px;
+    height: 6px;
+    display: flex;
+    align-items: center;
+    background-color: #7a7979c2;
+    margin: 4px 10px;
+    border-radius: 50%;
+}
+
+
+.nav2{
+    width: 100%;
+    height: 50%;
+    background-color: #eeeeee;
+    font-family: 'Ulbuntu', sans-serif;
+    font-size: 59%;
+    margin-right: 100%;
+    padding: 3%;
+}
+
+.nav2 .promociones2 h1{
+    font-size: 150%;
+    color: rgba(105, 94, 94, 0.932);
+}
+
+.nav2 .promociones2 h2 {
+    font-size: 130%;
+    color: rgba(158, 147, 147, 0.932);
+    display: flex;
+    margin-left: 0%;
+}
+
+.nav2 .promociones2 {
+    margin-left: 40%;
+    font-size: 130%;
+    color: rgba(158, 147, 147, 0.932);
+} 
+
+.nav2 .promociones2 h4 {
+    margin-left: 0%;
+    font-size: 130%;
+    color: rgba(158, 147, 147, 0.932);
+} 
+.nav2 .promociones2 h5 {
+    margin-left: 0%;
+    font-size: 130%;
+    color: rgba(158, 147, 147, 0.932);
+} 
+.nav2 .promociones2 h6 {
+    margin-left: 00%;
+    font-size: 130%;
+    color: rgba(158, 147, 147, 0.932);
+} 
